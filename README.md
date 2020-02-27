@@ -1,6 +1,6 @@
 # NettyDemo
 
-记录自己Netty时写下的Demo
+记录一下自己学习Netty时写下的一些Demo
 
 Demo1: 一个最基础的客户端与服务端连接的例子
 
