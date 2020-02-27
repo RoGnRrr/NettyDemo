@@ -55,7 +55,7 @@
           <entry key="dummy" value="8" />
           <entry key="html" value="625" />
           <entry key="java" value="5383" />
-          <entry key="md" value="5" />
+          <entry key="md" value="31" />
           <entry key="xml" value="79" />
         </counts>
       </usages-collector>
@@ -63,7 +63,7 @@
         <counts>
           <entry key="HTML" value="625" />
           <entry key="JAVA" value="5383" />
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="31" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="79" />
         </counts>
@@ -76,8 +76,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <first_editor relative-caret-position="198">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -251,7 +251,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582815557411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582815678458" />
     <property name="last_opened_file_path" value="F:/QuartzTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -351,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37101000" />
+    <option name="totallyTimeSpent" value="37270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1155" y="9" width="1280" height="1400" extended-state="0" />
